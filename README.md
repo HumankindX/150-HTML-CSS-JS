@@ -16,3 +16,9 @@ Experience the world through a virtual kaleidoscope with the Background Image Sl
 *Project 4: Balloon Popping Game 🎈🎮*
 Ignite your playful spirit with the Balloon Popping Game, where entertainment meets challenge. Engage in a captivating quest to burst virtual balloons as they drift whimsically across the screen. Sharpen your reflexes, compete for high scores, and revel in the joy of friendly competition, making this project a delightful addition to your leisure time. 🎈🎉🚀
 
+**Project 5: Blog to Social Post 📝📲**
+Transform your written thoughts into shareable gems with the Blog to Social Post project. Seamlessly convert your detailed blog content into captivating social media posts, optimized for various platforms. Maintain your voice and message while capturing attention with eye-catching visuals and concise messaging, making your blog content shine in the social media spotlight. ✍️📱🌟
+
+**Project 6: BMI Calculator 📊**
+Promote health awareness with the BMI Calculator project. This interactive tool allows users to easily calculate their Body Mass Index (BMI) by inputting their height and weight. Gain insights into your health and fitness goals, all while promoting an informed and conscious approach to well-being. Empower users to make mindful lifestyle choices as they track their progress. 💪⚖️🏃‍♂️
+

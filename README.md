@@ -22,3 +22,8 @@ Transform your written thoughts into shareable gems with the Blog to Social Post
 **Project 6: BMI Calculator 📊**
 Promote health awareness with the BMI Calculator project. This interactive tool allows users to easily calculate their Body Mass Index (BMI) by inputting their height and weight. Gain insights into your health and fitness goals, all while promoting an informed and conscious approach to well-being. Empower users to make mindful lifestyle choices as they track their progress. 💪⚖️🏃‍♂️
 
+**Project 7: Brick Breaker Game 🎮🧱**
+Experience the thrill of retro gaming with the Brick Breaker Game. Navigate the paddle to bounce the ball, breaking through layers of colorful bricks. With each level, the challenge intensifies, requiring precision and strategy to clear the screen. Engage in this nostalgic journey that combines skill and entertainment, aiming for high scores and endless fun. 🕹️🧱🎉
+
+**Project 8: Calculator 🧮**
+Simplify complex computations with the Calculator project. This versatile tool offers basic arithmetic functions and more, helping users solve equations quickly and efficiently. Whether it's for simple day-to-day tasks or more intricate mathematical challenges, the Calculator module is an indispensable asset that adds functionality to your web experience. ➕➖✖️➗🔢
